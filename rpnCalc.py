@@ -25,7 +25,9 @@ def calculate(arg):
 
 
 
-while True:
-	result = calculate(input('rpnCalc> '))
-	print(result)
-
+def main():
+    while True:
+    	result = calculate(input('rpnCalc> '))
+	
+if __name__ == '__main__':
+    main()
