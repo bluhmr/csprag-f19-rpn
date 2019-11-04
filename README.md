@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/<bluhmr>/<csprag-f19-rpn>.svg?branch=master)](https://travis-ci.org/<bluhmr>/<csprag-f19-rpn>)
 # csprag-f19-rpn
 an RPN Calculator, in Python.  
 
