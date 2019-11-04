@@ -4,7 +4,7 @@ import operator
 
 import sys
 
-from termcolor import colored
+#from termcolor import colored
 
 
 operators = {
