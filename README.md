@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/bluhmr/csprag-f19-rpn.svg?branch=master)](https://travis-ci.org/bluhmr/csprag-f19-rpn)
 [![Coverage Status](https://coveralls.io/repos/github/bluhmr/csprag-f19-rpn/badge.svg?branch=master)](https://coveralls.io/github/bluhmr/csprag-f19-rpn?branch=master)
 # csprag-f19-rpn
-an RPN Calculator, in Python. 
+An RPN Calculator, in Python. 
 
 Has implementation for addition, subtraction, multiplication, division, and exponentiation.
 
