@@ -13,11 +13,9 @@ operators = {
     '*': operator.mul,
     '/': operator.truediv,
     '^': operator.pow,
-    #'%': operator.mod,
-    #'<<': operator.lshift,
-    #'>>': operator.rshift,
-    #'|': operator.or_,
-    #'&': operator.and_,
+    '%': operator.mod,
+    '|': operator.or_,
+    '&': operator.and_,
 
 }
 
